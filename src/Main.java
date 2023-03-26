@@ -17,5 +17,6 @@ public class Main {
         System.out.println(ArrayPlusArray.arrayPlusArray(new int[]{1,2,3}, new int[]{4,5,6}));
         System.out.println(MakeUpperCase.makeUpperCase("in upper case now"));
         System.out.println(RemoveFirstAndLastCharacter.remove("abcde"));
+        System.out.println(RemoveStringSpaces.noSpace("with out Spa ces N o w"));
     }
 }
