@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.8 complite">
-      <change afterPath="$PROJECT_DIR$/src/FindThePosition.java" afterDir="false" />
+    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.9 complite">
+      <change afterPath="$PROJECT_DIR$/src/ArrayPlusArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679863495173</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feat : task10.9 complite">
+      <created>1679864379256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1679864379256</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +151,7 @@
     <MESSAGE value="feat : task10.6 complite" />
     <MESSAGE value="feat : task10.7 complite" />
     <MESSAGE value="feat : task10.8 complite" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.8 complite" />
+    <MESSAGE value="feat : task10.9 complite" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.9 complite" />
   </component>
 </project>

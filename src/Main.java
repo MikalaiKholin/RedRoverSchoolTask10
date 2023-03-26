@@ -13,5 +13,6 @@ public class Main {
         System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
         System.out.println(TripleTrouble.tripleTrouble("abc", "abc", "abc"));
         System.out.println(FindThePosition.position('d'));
+        System.out.println(ArrayPlusArray.arrayPlusArray(new int[]{1,2,3}, new int[]{4,5,6}));
     }
 }
