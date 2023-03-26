@@ -15,5 +15,6 @@ public class Main {
         System.out.println(FindThePosition.position('d'));
         System.out.println(ArrayPlusArray.arrayPlusArray(new int[]{1,2,3}, new int[]{4,5,6}));
         System.out.println(MakeUpperCase.makeUpperCase("in upper case now"));
+        System.out.println(RemoveFirstAndLastCharacter.remove("abcde"));
     }
 }
