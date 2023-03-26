@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.12 complite">
-      <change afterPath="$PROJECT_DIR$/src/RemoveStringSpaces.java" afterDir="false" />
+    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.13 complite">
+      <change afterPath="$PROJECT_DIR$/src/TrafficLights.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679865815981</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat : task10.13 complite">
+      <created>1679866347660</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679866347660</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +190,7 @@
     <MESSAGE value="feat : task10.10 complite" />
     <MESSAGE value="feat : task10.11 complite" />
     <MESSAGE value="feat : task10.12 complite" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.12 complite" />
+    <MESSAGE value="feat : task10.13 complite" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.13 complite" />
   </component>
 </project>

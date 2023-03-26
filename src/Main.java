@@ -18,5 +18,6 @@ public class Main {
         System.out.println(MakeUpperCase.makeUpperCase("in upper case now"));
         System.out.println(RemoveFirstAndLastCharacter.remove("abcde"));
         System.out.println(RemoveStringSpaces.noSpace("with out Spa ces N o w"));
+        System.out.println(TrafficLights.updateLight("yellow"));
     }
 }
