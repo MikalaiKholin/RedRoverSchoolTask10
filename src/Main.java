@@ -19,5 +19,6 @@ public class Main {
         System.out.println(RemoveFirstAndLastCharacter.remove("abcde"));
         System.out.println(RemoveStringSpaces.noSpace("with out Spa ces N o w"));
         System.out.println(TrafficLights.updateLight("yellow"));
+        System.out.println(StringRepeat.repeatStr(5, "abcI"));
     }
 }
