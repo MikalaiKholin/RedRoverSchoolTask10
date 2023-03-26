@@ -9,5 +9,7 @@ public class Main {
         System.out.println(YesOrNo.boolToWord(true));
         System.out.println(AbbreviateTwoWords.abbrevName("Bill Gates"));
         System.out.println(AbbreviateTwoWords.abbrevName("stive jobs"));
+        System.out.println(TheFeastOfManyBeasts.feast("brown bear","bear claw"));
+        System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
     }
 }
