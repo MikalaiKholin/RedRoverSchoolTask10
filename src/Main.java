@@ -6,5 +6,6 @@ public class Main {
         System.out.println(BasicOperations.basicMath("/",9 , 0));
         System.out.println(Arrays.toString(Sequence.reverse(10)));
         System.out.println(Arrays.toString(ArrToStr.stringToArray("I love arrays they are my favorite")));
+        System.out.println(YesOrNo.boolToWord(true));
     }
 }
