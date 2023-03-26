@@ -11,5 +11,6 @@ public class Main {
         System.out.println(AbbreviateTwoWords.abbrevName("stive jobs"));
         System.out.println(TheFeastOfManyBeasts.feast("brown bear","bear claw"));
         System.out.println(TheFeastOfManyBeasts.feast("great blue heron","garlic nann"));
+        System.out.println(TripleTrouble.tripleTrouble("abc", "abc", "abc"));
     }
 }
