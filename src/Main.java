@@ -7,5 +7,7 @@ public class Main {
         System.out.println(Arrays.toString(Sequence.reverse(10)));
         System.out.println(Arrays.toString(ArrToStr.stringToArray("I love arrays they are my favorite")));
         System.out.println(YesOrNo.boolToWord(true));
+        System.out.println(AbbreviateTwoWords.abbrevName("Bill Gates"));
+        System.out.println(AbbreviateTwoWords.abbrevName("stive jobs"));
     }
 }
