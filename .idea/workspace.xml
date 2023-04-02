@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.14 complite">
-      <change afterPath="$PROJECT_DIR$/src/StringRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="d1c69918-35d8-4316-8124-28953d11df85" name="Changes" comment="feat : task10.15 complite">
+      <change afterPath="$PROJECT_DIR$/src/Lights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TrafficLightsLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -39,12 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -180,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679866928827</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat : task10.15 complite">
+      <created>1679867234657</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679867234657</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,6 +208,7 @@
     <MESSAGE value="feat : task10.12 complite" />
     <MESSAGE value="feat : task10.13 complite" />
     <MESSAGE value="feat : task10.14 complite" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.14 complite" />
+    <MESSAGE value="feat : task10.15 complite" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : task10.15 complite" />
   </component>
 </project>
